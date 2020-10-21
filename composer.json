@@ -1,5 +1,5 @@
 {
-  "name": "mordisacks/creditguard",
+  "name": "nexusmerchants/creditguard",
   "description": "CreditGuard Payment gateway ",
   "keywords": [
     "creditguard",
@@ -9,6 +9,11 @@
   "authors": [
     {
       "name": "Mordi Sacks"
+    },
+    {
+      "name": "Peter Harlacher",
+      "email": "peter@nexusmerchants.com",
+      "homepage": "https://www.nexusmerchants.com"
     }
   ],
   "require": {
